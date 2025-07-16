@@ -65,9 +65,8 @@ After scoring 3500+ wallets based on their transaction behavior in Aave V2, we o
 
 ## 📁 Visualization
 
-See histogram plot in `credit_score_model.ipynb` or below:
+See histogram plot in `credit_score_model.ipynb` or at 'score_distribution.png'
 
-![Score Distribution Histogram](https://raw.githubusercontent.com/mrityunjay5004/credit_score_model/main/score_distribution.png)
 
 ---
 
